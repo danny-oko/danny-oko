@@ -99,8 +99,8 @@ AI-powered ecosystem for US university applications — a searchable school data
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danny-oko&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Danny's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny-oko&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
+  <img height="165" src="https://github-readme-stats-woad-six-98.vercel.app/api?username=danny-oko&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Danny's GitHub stats">
+  <img height="165" src="https://github-readme-stats-woad-six-98.vercel.app/api/top-langs/?username=danny-oko&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
 </p>
 
 ---
