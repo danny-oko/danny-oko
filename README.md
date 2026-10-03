@@ -18,15 +18,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Ulaanbaatar,%20Mongolia-111827?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/🎓%20Pinecone%20Academy%20'26-111827?style=flat-square" alt="Education" />
-  <img src="https://img.shields.io/badge/●%20Open%20to%20SWE%20roles-16A34A?style=flat-square" alt="Open to work" />
+  <img src="https://img.shields.io/badge/💼%20Software%20Engineer%20@%20Pinecone%20Academy-16A34A?style=flat-square" alt="Software Engineer at Pinecone Academy" />
 </p>
 
 <br />
 
 ## 👋&nbsp; About me
 
-I'm a full-stack software engineer who builds web apps with **Next.js, React, and TypeScript** — from AI-powered tools to learning platforms. I lead small teams of 5–6, own features end to end, and ship production products under tight hackathon and client deadlines.
+I'm a full-stack software engineer at **Pinecone Academy**, building web apps with **Next.js, React, and TypeScript** — from AI-powered tools to learning platforms. I lead small teams of 5–6, own features end to end, and ship production products under tight hackathon and client deadlines.
 
 What I care about most is building things people **use every day** and work that genuinely helps them.
 
@@ -129,6 +128,7 @@ What I care about most is building things people **use every day** and work that
 
 | Role | Where | When |
 | :--- | :--- | :--- |
+| **Software Engineer** — building and shipping full-stack products | Pinecone Academy | 2026 – Present |
 | **Founder & Project Manager** — led a 3-person agency, delivered 5 client projects in 8 months | XP Freelancing Agency | Jun 2025 – Feb 2026 |
 | **Technical Coordinator** — audio, stage &amp; production for 180+ weekly attendees and 150+ events; led the tech crew for *Finger Print* (300+ participants) | First Church | 2022 – Present |
 
@@ -152,7 +152,7 @@ What I care about most is building things people **use every day** and work that
 <!-- ───────────────────────────── FOOTER ───────────────────────────── -->
 
 <p align="center">
-  <i>Open to opportunities — let's build something people actually use.</i>
+  <i>Let's build something people actually use.</i>
 </p>
 
 <p align="center">
