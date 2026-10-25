@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://danny-os.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=560&lines=Building+products+people+use+every+day.;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Hono;AI+vision+%C2%B7+LLM+pipelines+%C2%B7+edge+infra;Team+lead+%C2%B7+shipped+under+hackathon+deadlines." alt="Typing intro" />
   </a>
 </p>
