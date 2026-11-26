@@ -1,159 +1,117 @@
-<!-- ───────────────────────────── HEADER ───────────────────────────── -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F766E,100:0A66C2&text=Danny%20Otgontsetseg&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20and%20Applied%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Danny Otgontsetseg — Software Engineer" width="100%" />
-</p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · danny-oko</sub></p>
+<h1>Danny Otgontsetseg</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>About Me
+I’m Danny — a passionate and reliable full-stack developer who thrives on building fast, modern solutions.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Mongolia Ulaanbaatar</sub></p>
+<p><a href="https://github.com/danny-oko">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/123633815?u=937e40a334f22dc63a2b3ddb2c1af8e6f7e9105c&amp;v=4" width="180" alt="Danny Otgontsetseg GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=560&lines=Building+products+people+use+every+day.;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Hono;AI+vision+%C2%B7+LLM+pipelines+%C2%B7+edge+infra;Team+lead+%C2%B7+shipped+under+hackathon+deadlines." alt="Typing intro" />
-  </a>
-</p>
+<h2>What teams can evaluate quickly</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/danny-otgontsetseg"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:danny.otgontsetseg@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Ulaanbaatar,%20Mongolia-111827?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/💼%20Software%20Engineer%20@%20Pinecone%20Academy-16A34A?style=flat-square" alt="Software Engineer at Pinecone Academy" />
-</p>
-
-<br />
-
-## 👋&nbsp; About me
-
-I'm a full-stack software engineer at **Pinecone Academy**, building web apps with **Next.js, React, and TypeScript** — from AI-powered tools to learning platforms. I lead small teams of 5–6, own features end to end, and ship production products under tight hackathon and client deadlines.
-
-What I care about most is building things people **use every day** and work that genuinely helps them.
-
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><h3>2,500+</h3><p><sub>users on a learning platform I built</sub></p></td>
-    <td align="center" width="25%"><h3>₮200M</h3><p><sub>course revenue generated</sub></p></td>
-    <td align="center" width="25%"><h3>6</h3><p><sub>customs posts use my app</sub></p></td>
-    <td align="center" width="25%"><h3>3×</h3><p><sub>team lead on shipped builds</sub></p></td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · CSS · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>39 repositories · 4 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>2,910 contributions · 297 active days</p></td>
+</tr>
 </table>
 
-<br />
+<p><sub>About Me
+I’m Danny — a passionate and reliable full-stack developer who thrives on building fast, modern solutions.</sub></p>
 
-## 🚀&nbsp; Featured work
+<h2>Proof at a glance</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/pinecone-studio/pinequest-s4-e2-aegis">Aegis</a></h3>
-      <p><sub><b>Team Lead (5)</b> · PineQuest Hackathon Ep.2 · 2026</sub></p>
-      <p>AI property-monitoring platform that flags common-area violations (smoking, vaping, littering) from live security cameras — <b>deployed across 2 apartment complexes</b>.</p>
-      <ul>
-        <li>Two-stage vision pipeline: YOLOv8 edge screening → Gemini 2.5 Flash confirmation</li>
-        <li>Auto camera discovery &amp; ingestion for <b>up to 30 live streams</b> (ONVIF/RTSP, FFmpeg)</li>
-        <li>Only 0.7+ confidence events reach storage to keep costs low</li>
-      </ul>
-      <code>YOLOv8</code> <code>Gemini</code> <code>FFmpeg</code> <code>Cloudflare</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/pinecone-studio/pinequest-s4-e1-brisk">Brisk</a></h3>
-      <p><sub><b>Team Lead (5)</b> · PineQuest Hackathon Ep.1 · 2026 · <a href="https://brisk-client.danny-otgontsetseg.workers.dev">Live ↗</a></sub></p>
-      <p>AI meeting hub that records, transcribes, and turns calls into clear action items — <b>~80% accuracy</b>, cutting forgotten follow-ups <b>18–25%</b> in internal testing.</p>
-      <ul>
-        <li>Multi-speaker transcripts → formatted reports inside Google Docs</li>
-        <li>Drive, Docs &amp; Gmail integration with OAuth 2.0</li>
-        <li>Summaries emailed automatically the moment a call ends</li>
-      </ul>
-      <code>Next.js</code> <code>Workers</code> <code>Google APIs</code> <code>OAuth 2.0</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐻 <a href="https://github.com/danny-oko/mazaalai-learn">Mazaalai-Learn</a></h3>
-      <p><sub><b>Team of 6</b> · Pinecone Academy Internship · 2026 · <a href="https://mazaalai-learn.vercel.app">Live ↗</a></sub></p>
-      <p>Duolingo-style app for learning the traditional Mongolian script, with AI pronunciation scoring and a global leaderboard.</p>
-      <ul>
-        <li>AI audio evaluation with real-time pronunciation feedback</li>
-        <li>Edge-cached leaderboard that stays fast under heavy traffic</li>
-        <li><b>50% faster</b> initial load after migrating the monorepo to Bun</li>
-      </ul>
-      <code>Next.js</code> <code>Hono</code> <code>Drizzle</code> <code>Cloudflare D1</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Online Education Platform</h3>
-      <p><sub><b>Freelance</b> · Ulaanbaatar · ~2-month build</sub></p>
-      <p>Fully responsive learning platform with an admin dashboard for lessons, users, and content.</p>
-      <ul>
-        <li><b>2,500+ users</b> and <b>1,400+ enrolled students</b></li>
-        <li><b>₮200M</b> in course revenue</li>
-      </ul>
-      <code>Next.js</code> <code>React</code> <code>TypeScript</code>
-      <br /><br />
-      <h3>🚚 Customs Automation</h3>
-      <p><sub><b>Freelance</b> · ~4-month build · Desktop app</sub></p>
-      <p>Electron app integrating LPR cameras and weight sensors with Mongolia's national customs database across <b>6 posts</b> — used by 108 Oil, Altan Logistics, BlueRoad &amp; FBLG.</p>
-      <code>Electron</code> <code>Node.js</code>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>39</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>2,910</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Followers</sub></td>
+</tr>
 </table>
 
-<p align="center"><sub>More: <a href="https://github.com/danny-oko/Guidly">Guidly</a> · <a href="https://github.com/danny-oko/crowd-snap">Crowd Snap</a> · <a href="https://github.com/danny-oko?tab=repositories">all repositories →</a></sub></p>
-
-<br />
-
-## 🧰&nbsp; Tech stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,bun,express,electron&theme=dark" alt="Languages & frameworks" /><br />
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,prisma,cloudflare,supabase,vercel,firebase&theme=dark" alt="Data & cloud" /><br />
-  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vim,figma&theme=dark" alt="Tools" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=danny-oko&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123633815%3Fu%3D937e40a334f22dc63a2b3ddb2c1af8e6f7e9105c%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=danny-oko&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123633815%3Fu%3D937e40a334f22dc63a2b3ddb2c1af8e6f7e9105c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Danny Otgontsetseg GitHub proof metrics" />
+</picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/Google%20Workspace%20APIs-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Workspace APIs" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0" />
-</p>
+<h2>Selected work</h2>
 
-<br />
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=danny-oko&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123633815%3Fu%3D937e40a334f22dc63a2b3ddb2c1af8e6f7e9105c%26v%3D4&repos=danny-oko%2Fmazaalai-learn%2Cdanny-oko%2Fxp_agency_landing%2Cdanny-oko%2Fpinequest-s4-e2-aegis%2Cdanny-oko%2Fdanny-os&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=danny-oko&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123633815%3Fu%3D937e40a334f22dc63a2b3ddb2c1af8e6f7e9105c%26v%3D4&repos=danny-oko%2Fmazaalai-learn%2Cdanny-oko%2Fxp_agency_landing%2Cdanny-oko%2Fpinequest-s4-e2-aegis%2Cdanny-oko%2Fdanny-os&v=recruiter-projects-1&mode=dark" width="100%" alt="Danny Otgontsetseg selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/danny-oko/mazaalai-learn">mazaalai-learn</a></h3>
+<p>Pinecone 3G - Team Project</p>
+<p><sub>TypeScript · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/danny-oko/mazaalai-learn">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-## 💼&nbsp; Experience
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/danny-oko/xp_agency_landing">xp_agency_landing</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/pinecone-studio/pinequest-s4-e2-aegis">pinequest-s4-e2-aegis</a></h3><p>Aegis</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/danny-oko/danny-os">danny-os</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
-| Role | Where | When |
-| :--- | :--- | :--- |
-| **Software Engineer** — building and shipping full-stack products | Pinecone Academy | 2026 – Present |
-| **Founder & Project Manager** — led a 3-person agency, delivered 5 client projects in 8 months | XP Freelancing Agency | Jun 2025 – Feb 2026 |
-| **Technical Coordinator** — audio, stage &amp; production for 180+ weekly attendees and 150+ events; led the tech crew for *Finger Print* (300+ participants) | First Church | 2022 – Present |
-
-## 🎓&nbsp; Education
-
-| Program | School | When |
-| :--- | :--- | :--- |
-| **Software Engineering** | Pinecone Academy | Oct 2025 – Jul 2026 |
-| **High School Diploma** | Amjilt Cyber School | Jul 2025 |
-
-<sub>🗣️ Mongolian (native) · English (professional working) &nbsp;&nbsp;|&nbsp;&nbsp; 🤝 Agile · Scrum · Sprint planning · Code reviews</sub>
-
-<br />
-
-## 📊&nbsp; GitHub activity
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=danny-oko&theme=transparent&hide_border=true&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=danny-oko&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123633815%3Fu%3D937e40a334f22dc63a2b3ddb2c1af8e6f7e9105c%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=danny-oko&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123633815%3Fu%3D937e40a334f22dc63a2b3ddb2c1af8e6f7e9105c%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Danny Otgontsetseg technology stack" />
+</picture>
 </p>
 
-<!-- ───────────────────────────── FOOTER ───────────────────────────── -->
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>91% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>PLpgSQL</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <i>Let's build something people actually use.</i>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=danny-oko&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123633815%3Fu%3D937e40a334f22dc63a2b3ddb2c1af8e6f7e9105c%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=danny-oko&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123633815%3Fu%3D937e40a334f22dc63a2b3ddb2c1af8e6f7e9105c%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Danny Otgontsetseg contribution activity" />
+</picture>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0A66C2,100:0F766E&section=footer" width="100%" alt="" />
-</p>
+<hr />
 
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/danny-oko">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Danny Otgontsetseg · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
